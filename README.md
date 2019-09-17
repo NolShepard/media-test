@@ -1,1 +1,1 @@
-# hotsnotkrick.github.io/media-test
+# hotsnotkrick.github.io/media-test/
